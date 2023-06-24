@@ -1,7 +1,5 @@
 .header {
-    width: 90%;
-    background-image: url(https://images.pexels.com/photos/111962/pexels-photo-111962.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-image: url(https://cdn.pixabay.com/photo/2013/10/09/02/27/lake-192990_1280.jpg);
     background-repeat: no-repeat;
-    background-position: center center;
-    height: 60rem;
-}
+    height: 50rem;
+    background-size: cover;}
