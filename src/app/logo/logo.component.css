@@ -5,16 +5,3 @@
     height: 50rem;
     background-size: cover;
 }
-
-h2 {
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 5px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.contenedor {
-    max-width: 120rem;
-    width: 90%;
-    margin: 0 auto;
-}
