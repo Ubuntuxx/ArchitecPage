@@ -1,5 +1,20 @@
 .header {
-    background-image: url(https://cdn.pixabay.com/photo/2013/10/09/02/27/lake-192990_1280.jpg);
+    background-image: url(https://images.pexels.com/photos/4242898/pexels-photo-4242898.png);
     background-repeat: no-repeat;
+    background-position: center center;
     height: 50rem;
-    background-size: cover;}
+    background-size: cover;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contenedor {
+    max-width: 120rem;
+    width: 90%;
+    margin: 0 auto;
+}
