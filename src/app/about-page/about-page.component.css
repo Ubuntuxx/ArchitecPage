@@ -2,7 +2,7 @@
     margin-top: 5rem;
 }
 
-.card img{
+.card img {
     padding: 5px;
     border: none;
     border-radius: 51px;
@@ -10,4 +10,8 @@
 
 .card {
     border: none;
+}
+
+.card-text {
+    text-align: justify;
 }
