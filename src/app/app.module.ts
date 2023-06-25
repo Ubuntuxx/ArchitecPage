@@ -7,6 +7,7 @@ import { LogoComponent } from './logo/logo.component';
 import { MainContentComponent } from './main-content/main-content.component';
 import { AboutPageComponent } from './about-page/about-page.component';
 import { ContactoComponent } from './contacto/contacto.component';
+import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { ContactoComponent } from './contacto/contacto.component';
     LogoComponent,
     MainContentComponent,
     AboutPageComponent,
-    ContactoComponent
+    ContactoComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule

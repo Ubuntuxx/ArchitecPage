@@ -1,0 +1,11 @@
+footer {
+    background-color: black;
+    height: 5rem;
+}
+
+p {
+    padding-top: 2rem;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+}
